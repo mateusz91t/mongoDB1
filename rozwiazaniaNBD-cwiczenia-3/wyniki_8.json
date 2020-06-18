@@ -1,0 +1,10 @@
+/* 1 */
+{
+    "location.city" : "Moscow"
+}
+/* 1 */
+{
+    "acknowledged" : true,
+    "matchedCount" : 2.0,
+    "modifiedCount" : 2.0
+}

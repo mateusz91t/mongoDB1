@@ -1,0 +1,1 @@
+db.people.findOne({sex:"Male",nationality:"China"})
